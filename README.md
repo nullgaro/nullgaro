@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bulgaro.confugiradores.es](https://bulgaro.confugiradores.es)
 
-- 💬 Ask me about **Java, Web Development, Linux**
+- 💬 Ask me about **Java, Web Development and Linux**
 
 - 📫 How to reach me **bulgaro@confugiradores.es**
 
