@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Instagram Automation**
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Svelte and PHP**
 
 - 👨‍💻 All of my projects are available at [https://bulgaro.confugiradores.es](https://bulgaro.confugiradores.es)
 
-- 💬 Ask me about **Java, Web Development and Linux**
+- 💬 Ask me about **Python, Web Development and Linux**
 
 - 📫 How to reach me **bulgaro@confugiradores.es**
 
