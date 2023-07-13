@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on **Instagram Automation**
+- 🔭 I’m currently working on **[ghfetch](https://github.com/ghfetch/ghfetch)**
 
 - 🌱 I’m currently learning **Svelte and PHP**
 
