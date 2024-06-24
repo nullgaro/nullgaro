@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Svelte and PHP**
 
-- 👨‍💻 All of my projects are available at [https://bulgaro.confugiradores.es](https://bulgaro.confugiradores.es)
+- 👨‍💻 All of my projects are available at [https://nullgaro.com/](https://nullgaro.com/)
 
 - 💬 Ask me about **Python, Web Development and Linux**
 
-- 📫 How to reach me **bulgaro@confugiradores.es**
+- 📫 How to reach me **danimilenovvalkov@gmail.com**
 
 **I use Arch, btw**
 
